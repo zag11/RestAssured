@@ -1,0 +1,8 @@
+2024-01-09T13:01:39,359 [main] INFO  (AllureReportGeneration.java:41) - e2eApiRequest strat
+2024-01-09T13:26:30,630 [main] INFO  (AllureReportGeneration.java:41) - e2eApiRequest strat
+2024-01-09T13:34:57,291 [main] INFO  (AllureReportGeneration.java:41) - e2eApiRequest strat
+2024-01-09T13:35:05,239 [main] INFO  (AllureReportGeneration.java:179) - e2eApiRequest End
+2024-01-09T13:39:54,104 [main] INFO  (AllureReportGeneration.java:41) - e2eApiRequest strat
+2024-01-09T13:40:01,511 [main] INFO  (AllureReportGeneration.java:179) - e2eApiRequest End
+2024-01-09T14:10:20,532 [main] INFO  (EndToEndTest.java:41) - e2eApiRequest strat
+2024-01-09T14:10:28,077 [main] INFO  (EndToEndTest.java:179) - e2eApiRequest End

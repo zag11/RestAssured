@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-09T15:59:10 MEZ" name="Suite" finished-at="2024-01-09T15:59:19 MEZ" duration-ms="8943">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T15:59:10 MEZ" name="Test" finished-at="2024-01-09T15:59:19 MEZ" duration-ms="8943">
+      <class name="com.testautomation.apitesting.tests.AllureReportGeneration">
+        <test-method is-config="true" signature="beforMethode()[pri:0, instance:com.testautomation.apitesting.tests.AllureReportGeneration@6f2cb653]" started-at="2024-01-09T15:59:10 MEZ" name="beforMethode" finished-at="2024-01-09T15:59:11 MEZ" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethode -->
+        <test-method signature="e2eApiRequest()[pri:0, instance:com.testautomation.apitesting.tests.AllureReportGeneration@6f2cb653]" started-at="2024-01-09T15:59:11 MEZ" name="e2eApiRequest" description="E2E Apisting" finished-at="2024-01-09T15:59:19 MEZ" duration-ms="8112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e2eApiRequest -->
+      </class> <!-- com.testautomation.apitesting.tests.AllureReportGeneration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

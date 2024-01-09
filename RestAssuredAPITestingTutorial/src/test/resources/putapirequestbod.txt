@@ -1,0 +1,11 @@
+{
+    "firstname": "Testers",
+    "lastname": "Karimtest",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2024-01-01",
+        "checkout": "2024-01-04"
+    },
+    "additionalneeds": "super bowls"
+}
